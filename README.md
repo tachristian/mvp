@@ -1,6 +1,7 @@
+<!---<!DOCTYPE html>--->
 <html>
 <head>
-<title>Title text that shows on live webpage.</title>
+<!---<title>Title text that shows on live webpage.</title>--->
 </head>
 <body>
 <h1>H1 Heading, shows on live site.</h1>
